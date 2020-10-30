@@ -1,0 +1,9 @@
+id,code,allocation_type,validation_type,validity_start,validity_stop,create_calendar_meeting,name,color_name,unpaid
+hr_holidays.holiday_status_cl,,Ansprucherteilung durch HR,Team Leader and Time Off Officer,2020-01-01,,1,Bezahlte Ferien,Schwarz,0
+hr_holidays.holiday_status_sl,,Kein Anspruch erforderlich,Time Off Officer,2020-01-01,,1,Krankheit,Rot,0
+hr_holidays.holiday_status_comp,,Anspruchanfrage möglich,Team Leader and Time Off Officer,2020-01-01,,1,Ausgleichstage,Lavendel,0
+hr_holidays.holiday_status_unpaid,,Kein Anspruch erforderlich,Team Leader and Time Off Officer,2020-01-01,,1,Unbezahlte Ferien,Braun,1
+__export__.hr_leave_type_5_f03f145b,,Kein Anspruch erforderlich,Teamleiter,2020-01-01,,1,Militär,Grün,0
+__export__.hr_leave_type_6_728da547,,Kein Anspruch erforderlich,Teamleiter,2020-01-01,,1,Zivilschutz,Grün,0
+__export__.hr_leave_type_7_77f674de,,Kein Anspruch erforderlich,Teamleiter,2020-01-01,,1,Mutterschaftsurlaub,Hell Rosa,0
+__export__.hr_leave_type_8_b309c095,,Kein Anspruch erforderlich,Teamleiter,2020-01-01,,1,Vaterschaftsurlaub,Hell Rosa,0

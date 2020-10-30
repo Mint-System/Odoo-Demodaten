@@ -1,0 +1,13 @@
+Externe ID,Product,Quantity,BoM Type,BoM Lines/Component,BoM Lines/Quantity
+1,[1.1] Rahmen unbeschichtet,1,Manufacture this product,[1.1.1] Oberrohr,1
+,,,,[1.1.2] Steuerrohr,1
+,,,,[1.1.3] Unterrohr,1
+,,,,[1.1.4] Sitzrohr,1
+,,,,[1.1.5] Sitzstrebe,1
+,,,,[1.1.6] Kettenstrebe,1
+2,[1.1.1] Oberrohr,1,Manufacture this product,[1001] Rundrohr Typ 1,1
+3,[1.1.2] Steuerrohr,1,Manufacture this product,[1001] Rundrohr Typ 1,1
+4,[1.1.3] Unterrohr,1,Manufacture this product,[1001] Rundrohr Typ 1,1
+5,[1.1.4] Sitzrohr,1,Manufacture this product,[1001] Rundrohr Typ 1,1
+6,[1.1.5] Sitzstrebe,1,Manufacture this product,[1002] Rundrohr Typ 2,1
+7,[1.1.6] Kettenstrebe,1,Manufacture this product,[1002] Rundrohr Typ 2,1

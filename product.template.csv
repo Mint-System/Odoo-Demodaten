@@ -1,0 +1,27 @@
+Name,Product Type,Internal Reference,Cost
+Rahmen beschichtet,Einlagerbares Produkt,1,85.25
+Rahmen unbeschichtet,Einlagerbares Produkt,1.1,68.76
+Oberrohr,Einlagerbares Produkt,1.1.1,14.35
+Steuerrohr,Einlagerbares Produkt,1.1.2,10.25
+Unterrohr,Einlagerbares Produkt,1.1.3,11.25
+Sitzrohr,Einlagerbares Produkt,1.1.4,8.85
+Sitzstrebe,Einlagerbares Produkt,1.1.5,10.15
+Kettenstrebe,Einlagerbares Produkt,1.1.6,11.85
+Sitz,Einlagerbares Produkt,5,18.85
+Sattelstütze,Einlagerbares Produkt,5.1,5.25
+Sattel,Einlagerbares Produkt,5.2,8.80
+Lenker,Einlagerbares Produkt,4,48.15
+Lenkerbügel,Einlagerbares Produkt,4.1,13.00
+Vorbau,Einlagerbares Produkt,4.2,8.15
+Steuersatz,Einlagerbares Produkt,4.3,5.25
+Rad,Einlagerbares Produkt,3,74.75
+Reifen,Einlagerbares Produkt,3.1,4.15
+Schlauch,Einlagerbares Produkt,3.2,2.80
+Felge,Einlagerbares Produkt,3.3,3.60
+Speiche,Einlagerbares Produkt,3.4,5.70
+Nabe,Einlagerbares Produkt,3.5,15.60
+Gabel,Einlagerbares Produkt,2,18.20
+Kettensatz,Einlagerbares Produkt,6,4.85
+Pedal,Einlagerbares Produkt,7,6.15
+Rundrohr Typ 1,Einlagerbares Produkt,1001,2.65
+Rundrohr Typ 2,Einlagerbares Produkt,1002,2.20

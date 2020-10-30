@@ -1,0 +1,27 @@
+Produkt,Min Quantity,Max Quantity
+[1] Rahmen beschichtet,0,0
+[1.1] Rahmen unbeschichtet,0,0
+[1.1.1] Oberrohr,0,0
+[1.1.2] Steuerrohr,0,0
+[1.1.3] Unterrohr,0,0
+[1.1.4] Sitzrohr,0,0
+[1.1.5] Sitzstrebe,0,0
+[1.1.6] Kettenstrebe,0,0
+[5] Sitz,0,0
+[5.1] Sattelstütze,0,0
+[5.2] Sattel,0,0
+[4] Lenker,0,0
+[4.1] Lenkerbügel,0,0
+[4.2] Vorbau,0,0
+[4.3] Steuersatz,0,0
+[3] Rad,0,0
+[3.1] Reifen,0,0
+[3.2] Schlauch,0,0
+[3.3] Felge,0,0
+[3.4] Speiche,0,0
+[3.5] Nabe,0,0
+[2] Gabel,0,0
+[6] Kettensatz,0,0
+[7] Pedal,0,0
+[1001] Rundrohr Typ 1,0,0
+[1002] Rundrohr Typ 2,0,0
