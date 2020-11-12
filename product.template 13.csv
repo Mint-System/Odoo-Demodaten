@@ -1,28 +1,32 @@
-Name,Product Type,Internal Reference,Cost,Mengeneinheit,Einkauf ME,Routen
-Rahmen beschichtet,Einlagerbares Produkt,M1000,85.25,Einheiten,Einheiten,Fertigung
-Rahmen unbeschichtet,Einlagerbares Produkt,M1001,68.76,Einheiten,Einheiten,Fertigung
-Oberrohr,Einlagerbares Produkt,M1002,14.35,Einheiten,Einheiten,Fertigung
-Steuerrohr,Einlagerbares Produkt,M1003,10.25,Einheiten,Einheiten,Fertigung
-Unterrohr,Einlagerbares Produkt,M1004,11.25,Einheiten,Einheiten,Fertigung
-Sitzrohr,Einlagerbares Produkt,M1005,8.85,Einheiten,Einheiten,Fertigung
-Sitzstrebe,Einlagerbares Produkt,M1006,10.15,Einheiten,Einheiten,Fertigung
-Kettenstrebe,Einlagerbares Produkt,M1007,11.85,Einheiten,Einheiten,Fertigung
-Sitz,Einlagerbares Produkt,M1008,18.85,Einheiten,Einheiten,Fertigung
-Sattelstütze,Einlagerbares Produkt,M1009,5.25,Einheiten,Einheiten,Fertigung
-Sattel,Einlagerbares Produkt,M1010,8.8,Einheiten,Einheiten,Fertigung
-Lenker,Einlagerbares Produkt,M1011,48.15,Einheiten,Einheiten,Fertigung
-Lenkerbügel,Einlagerbares Produkt,M1012,13,Einheiten,Einheiten,Fertigung
-Vorbau,Einlagerbares Produkt,M1013,8.15,Einheiten,Einheiten,Fertigung
-Steuersatz,Einlagerbares Produkt,M1014,5.25,Einheiten,Einheiten,Fertigung
-Rad,Einlagerbares Produkt,M1015,74.75,Einheiten,Einheiten,Fertigung
-Reifen,Einlagerbares Produkt,M1016,4.15,Einheiten,Einheiten,Fertigung
-Schlauch,Einlagerbares Produkt,M1017,2.8,Einheiten,Einheiten,Fertigung
-Felge,Einlagerbares Produkt,M1018,3.6,Einheiten,Einheiten,Fertigung
-Speiche,Einlagerbares Produkt,M1019,5.7,Einheiten,Einheiten,Fertigung
-Nabe,Einlagerbares Produkt,M1020,15.6,Einheiten,Einheiten,Fertigung
-Gabel,Einlagerbares Produkt,M1021,18.2,Einheiten,Einheiten,Fertigung
-Kettensatz,Einlagerbares Produkt,M1022,4.85,Einheiten,Einheiten,Fertigung
-Pedal,Einlagerbares Produkt,M1023,6.15,Einheiten,Einheiten,Fertigung
-Rundrohr Typ 1,Einlagerbares Produkt,M1024,2.65,Einheiten,Einheiten,Einkaufen
-Rundrohr Typ 2,Einlagerbares Produkt,M1025,2.2,Einheiten,Einheiten,Einkaufen
-Fettentferner A,Einlagerbares Produkt,C1022,12.5,ml,ml,Einkaufen
+Name,Product Type,Internal Reference,Cost,Mengeneinheit,Einkauf ME,Routen,Verkaufspreis
+Rahmen beschichtet,Einlagerbares Produkt,M1000,85.25,Einheiten,Einheiten,Fertigung,
+Rahmen unbeschichtet,Einlagerbares Produkt,M1001,68.76,Einheiten,Einheiten,Fertigung,
+Oberrohr,Einlagerbares Produkt,M1002,14.35,Einheiten,Einheiten,Fertigung,
+Steuerrohr,Einlagerbares Produkt,M1003,10.25,Einheiten,Einheiten,Fertigung,
+Unterrohr,Einlagerbares Produkt,M1004,11.25,Einheiten,Einheiten,Fertigung,
+Sitzrohr,Einlagerbares Produkt,M1005,8.85,Einheiten,Einheiten,Fertigung,
+Sitzstrebe,Einlagerbares Produkt,M1006,10.15,Einheiten,Einheiten,Fertigung,
+Kettenstrebe,Einlagerbares Produkt,M1007,11.85,Einheiten,Einheiten,Fertigung,
+Sitz,Einlagerbares Produkt,M1008,18.85,Einheiten,Einheiten,Fertigung,
+Sattelstütze,Einlagerbares Produkt,M1009,5.25,Einheiten,Einheiten,Fertigung,
+Sattel,Einlagerbares Produkt,M1010,8.8,Einheiten,Einheiten,Fertigung,
+Lenker,Einlagerbares Produkt,M1011,48.15,Einheiten,Einheiten,Fertigung,
+Lenkerbügel,Einlagerbares Produkt,M1012,13,Einheiten,Einheiten,Fertigung,
+Vorbau,Einlagerbares Produkt,M1013,8.15,Einheiten,Einheiten,Fertigung,
+Steuersatz,Einlagerbares Produkt,M1014,5.25,Einheiten,Einheiten,Fertigung,
+Rad,Einlagerbares Produkt,M1015,74.75,Einheiten,Einheiten,Fertigung,
+Reifen,Einlagerbares Produkt,M1016,4.15,Einheiten,Einheiten,Fertigung,
+Schlauch,Einlagerbares Produkt,M1017,2.8,Einheiten,Einheiten,Fertigung,
+Felge,Einlagerbares Produkt,M1018,3.6,Einheiten,Einheiten,Fertigung,
+Speiche,Einlagerbares Produkt,M1019,5.7,Einheiten,Einheiten,Fertigung,
+Nabe,Einlagerbares Produkt,M1020,15.6,Einheiten,Einheiten,Fertigung,
+Gabel,Einlagerbares Produkt,M1021,18.2,Einheiten,Einheiten,Fertigung,
+Kettensatz,Einlagerbares Produkt,M1022,4.85,Einheiten,Einheiten,Fertigung,
+Pedal,Einlagerbares Produkt,M1023,6.15,Einheiten,Einheiten,Fertigung,
+Rundrohr Typ 1,Einlagerbares Produkt,M1024,2.65,Einheiten,Einheiten,Einkaufen,
+Rundrohr Typ 2,Einlagerbares Produkt,M1025,2.2,Einheiten,Einheiten,Einkaufen,
+Fettentferner A,Einlagerbares Produkt,C1022,12.5,ml,ml,Einkaufen,
+Draht Typ 1,Einlagerbares Produkt,C1034,0.02,mm,m,Einkaufen,
+Speichennippel Typ 1,Einlagerbares Produkt,C1041,0.05,Einheiten,Einheiten,Einkaufen,
+Engineering,Dienstleistung,S2340,1,Stunden,Stunden,,160
+Marketing-Beratung,Dienstleistung,S2224,1,Stunden,Stunden,,180
