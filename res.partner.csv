@@ -1,7 +1,9 @@
-Name,Straße,Straße2,Stadt,PLZ,USt-IdNr.,Telefon,Mobil,E-Mail,Websiten-Link
-Steiner Mechanik AG,Hübelstrasse 24,,Dallenwil,6383,,,,kurt.gisler@mint-system.ch,
-Oberflächentechnik GmbH,Steinerstrasse,,Brunnen,6440,,,,kurt.gisler@mint-system.ch,
-Eisenwaren Huber AG,Dorfbachstrasse 2,,Erstfeld,6472,,,,kurt.gisler@mint-system.ch,
-Anita Inglin,Hauptplatz 16,,Niederbipp,4704,,,,kurt.gisler@mint-system.ch,
-Velomarkt Plus GmbH,Dorfplatz 23,,Stans,6370,,,,kurt.gisler@mint-system.ch,
-Metall und Profile GmbH,Kichgasse 2,,Hünenberg,6331,,,,kurt.gisler@mint-system.ch,
+Name,Straße,Straße2,Stadt,PLZ,Land,USt-IdNr.,Telefon,Mobil,E-Mail,Websiten-Link
+Steiner Mechanik AG,Hübelstrasse 24,,Dallenwil,6383,Schweiz,,,,kurt.gisler@mint-system.ch,
+Oberflächentechnik GmbH,Steinerstrasse,,Brunnen,6440,Schweiz,,,,kurt.gisler@mint-system.ch,
+Eisenwaren Huber AG,Dorfbachstrasse 2,,Erstfeld,6472,Schweiz,,,,kurt.gisler@mint-system.ch,
+Anita Inglin,Hauptplatz 16,,Niederbipp,4704,Schweiz,,,,kurt.gisler@mint-system.ch,
+Velomarkt Plus GmbH,Dorfplatz 23,,Stans,6370,Schweiz,,,,kurt.gisler@mint-system.ch,
+Metall und Profile GmbH,Kichgasse 2,,Hünenberg,6331,Schweiz,,,,kurt.gisler@mint-system.ch,
+Fast Bicycle Repair,5100 Belt Line,,Dallas,TX 75218,USA - Vereinigte Staaten von Amerika,,,,kurt.gisler@mint-system.ch,
+Fahrrad-Traum AG,Liechtensteig 2,,Würzburg,97070,Deutschland,,,,kurt.gisler@mint-system.ch,
