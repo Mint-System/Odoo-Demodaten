@@ -1,4 +1,9 @@
 
 # Demodaten
 
-https://knowledge.mint-system.ch/#/prozesse-odoo-demoumgebung-bereitstellen?id=demodaten-importieren
+Allowed file types are:
+* .odt for documentation
+* .csv for data files
+* .pdf for manufacturing and finance
+* .step for manufactung
+* .zip for odoo database templates
