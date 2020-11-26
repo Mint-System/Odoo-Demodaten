@@ -10,3 +10,5 @@ Sequenz,Lieferant,Produktvorlage,Menge,Preis,Kurzbezeichnung beim Lieferant,Tage
 9,Eisenwaren Huber AG,[M1025] Rundrohr Typ 2,100,1.4,DK26,20
 10,Eisenwaren Huber AG,[C1022] Fettentferner A,0.6,6,CL100,2
 11,Metall und Profile GmbH,[C1022] Fettentferner A,1,6.5,D-410,2
+12,Eisenwaren Huber AG,[C of C] Certificat of Conformity,1,8,,2
+13,Steiner Mechanik AG,[C of C] Certificat of Conformity,1,6,,2
