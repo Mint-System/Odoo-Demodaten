@@ -18,3 +18,8 @@ Externe ID,Product,Quantity,BoM Type,BoM Lines/Component,BoM Lines/Quantity
 ,,,,Fettentferner A,1
 7,Kettenstrebe,1,Manufacture this product,Rundrohr Typ 2,1
 ,,,,Fettentferner A,1
+8,Rad,1,Manufacture this product,Reifen,1
+,,,,Schlauch,1
+,,,,Felge,1
+,,,,Speiche,8
+,,,,Nabe,1

@@ -1,28 +1,28 @@
-Produkt,Min Quantity,Max Quantity
-Rahmen beschichtet,0,0
-Rahmen unbeschichtet,0,0
-Oberrohr,0,0
-Steuerrohr,0,0
-Unterrohr,0,0
-Sitzrohr,0,0
-Sitzstrebe,0,0
-Kettenstrebe,0,0
-Sitz,0,0
-Sattelstütze,0,0
-Sattel,0,0
-Lenker,0,0
-Lenkerbügel,0,0
-Vorbau,0,0
-Steuersatz,0,0
-Rad,0,0
-Reifen,0,0
-Schlauch,0,0
-Felge,0,0
-Speiche,0,0
-Nabe,0,0
-Gabel,0,0
-Kettensatz,0,0
-Pedal,0,0
-Rundrohr Typ 1,0,0
-Rundrohr Typ 2,0,0
-Fettentferner A,0,0
+Produkt,Min Quantity,Max Quantity,Auslöser
+Rahmen beschichtet,0,0,Manuell
+Rahmen unbeschichtet,0,0,Manuell
+Oberrohr,0,0,Manuell
+Steuerrohr,0,0,Manuell
+Unterrohr,0,0,Manuell
+Sitzrohr,0,0,Manuell
+Sitzstrebe,0,0,Manuell
+Kettenstrebe,0,0,Manuell
+Sitz,0,0,Manuell
+Sattelstütze,0,0,Manuell
+Sattel,0,0,Manuell
+Lenker,0,0,Manuell
+Lenkerbügel,0,0,Manuell
+Vorbau,0,0,Manuell
+Steuersatz,0,0,Manuell
+Rad,0,0,Manuell
+Reifen,0,0,Manuell
+Schlauch,0,0,Manuell
+Felge,0,0,Manuell
+Speiche,0,0,Manuell
+Nabe,0,0,Manuell
+Gabel,0,0,Manuell
+Kettensatz,0,0,Manuell
+Pedal,0,0,Manuell
+Rundrohr Typ 1,0,0,Manuell
+Rundrohr Typ 2,0,0,Manuell
+Fettentferner A,0,0,Manuell
