@@ -1,29 +1,29 @@
-Name,Product Type,Internal Reference,Cost,Mengeneinheit,Einkauf ME,Routen,Verkaufspreis,Auslieferungszeit,Durchlaufzeit der Fertigung
-Rahmen beschichtet,Einlagerbares Produkt,M1000,85.25,Einheiten,Einheiten,Fertigung,,,
-Rahmen unbeschichtet,Einlagerbares Produkt,M1001,68.76,Einheiten,Einheiten,Fertigung,,2,14
-Oberrohr,Einlagerbares Produkt,M1002,14.35,Einheiten,Einheiten,Fertigung,,2,3
-Steuerrohr,Einlagerbares Produkt,M1003,10.25,Einheiten,Einheiten,Fertigung,,2,3
-Unterrohr,Einlagerbares Produkt,M1004,11.25,Einheiten,Einheiten,Fertigung,,2,3
-Sitzrohr,Einlagerbares Produkt,M1005,8.85,Einheiten,Einheiten,Fertigung,,2,3
-Sitzstrebe,Einlagerbares Produkt,M1006,10.15,Einheiten,Einheiten,Fertigung,,2,4
-Kettenstrebe,Einlagerbares Produkt,M1007,11.85,Einheiten,Einheiten,Fertigung,,2,4
-Sitz,Einlagerbares Produkt,M1008,18.85,Einheiten,Einheiten,Fertigung,42,,
-Sattelstütze,Einlagerbares Produkt,M1009,5.25,Einheiten,Einheiten,Fertigung,,,
-Sattel,Einlagerbares Produkt,M1010,8.8,Einheiten,Einheiten,Fertigung,,,
-Lenker,Einlagerbares Produkt,M1011,48.15,Einheiten,Einheiten,Fertigung,73,,
-Lenkerbügel,Einlagerbares Produkt,M1012,13,Einheiten,Einheiten,Fertigung,,,
-Vorbau,Einlagerbares Produkt,M1013,8.15,Einheiten,Einheiten,Fertigung,,,
-Steuersatz,Einlagerbares Produkt,M1014,5.25,Einheiten,Einheiten,Fertigung,,,
-Rad,Einlagerbares Produkt,M1015,74.75,Einheiten,Einheiten,Fertigung,,,
-Reifen,Einlagerbares Produkt,M1016,4.15,Einheiten,Einheiten,Fertigung,,,
-Schlauch,Einlagerbares Produkt,M1017,2.8,Einheiten,Einheiten,Fertigung,,,
-Felge,Einlagerbares Produkt,M1018,3.6,Einheiten,Einheiten,Fertigung,,,
-Speiche,Einlagerbares Produkt,M1019,5.7,Einheiten,Einheiten,Fertigung,,,
-Nabe,Einlagerbares Produkt,M1020,15.6,Einheiten,Einheiten,Fertigung,,,
-Gabel,Einlagerbares Produkt,M1021,18.2,Einheiten,Einheiten,Fertigung,,,
-Kettensatz,Einlagerbares Produkt,M1022,4.85,Einheiten,Einheiten,Fertigung,,,
-Pedal,Einlagerbares Produkt,M1023,6.15,Einheiten,Einheiten,Fertigung,,,
-Rundrohr Typ 1,Einlagerbares Produkt,M1024,2.65,Einheiten,Einheiten,Einkaufen,,,
-Rundrohr Typ 2,Einlagerbares Produkt,M1025,2.2,Einheiten,Einheiten,Einkaufen,,,
-Fettentferner A,Einlagerbares Produkt,C1022,12.5,ml,L,Einkaufen,,,
-City Bike,Einlagerbares Produkt,,,Einheiten,Einheiten,Einkaufen,,,
+"Name","Product Type","Internal Reference","Cost","Mengeneinheit","Einkauf ME","Routen","Verkaufspreis","Auslieferungszeit","Durchlaufzeit der Fertigung","Strichcode"
+"Rahmen beschichtet","Einlagerbares Produkt","M1000",85.25,"Einheiten","Einheiten","Fertigung",,,,201203201123
+"Rahmen unbeschichtet","Einlagerbares Produkt","M1001",68.76,"Einheiten","Einheiten","Fertigung",,2,14,201203201124
+"Oberrohr","Einlagerbares Produkt","M1002",14.35,"Einheiten","Einheiten","Fertigung",,2,3,201203201125
+"Steuerrohr","Einlagerbares Produkt","M1003",10.25,"Einheiten","Einheiten","Fertigung",,2,3,201203201126
+"Unterrohr","Einlagerbares Produkt","M1004",11.25,"Einheiten","Einheiten","Fertigung",,2,3,201203201127
+"Sitzrohr","Einlagerbares Produkt","M1005",8.85,"Einheiten","Einheiten","Fertigung",,2,3,201203201128
+"Sitzstrebe","Einlagerbares Produkt","M1006",10.15,"Einheiten","Einheiten","Fertigung",,2,4,201203201129
+"Kettenstrebe","Einlagerbares Produkt","M1007",11.85,"Einheiten","Einheiten","Fertigung",,2,4,201203201130
+"Sitz","Einlagerbares Produkt","M1008",18.85,"Einheiten","Einheiten","Fertigung",42,,,201203201131
+"Sattelstütze","Einlagerbares Produkt","M1009",5.25,"Einheiten","Einheiten","Fertigung",,,,201203201132
+"Sattel","Einlagerbares Produkt","M1010",8.8,"Einheiten","Einheiten","Fertigung",,,,201203201133
+"Lenker","Einlagerbares Produkt","M1011",48.15,"Einheiten","Einheiten","Fertigung",73,,,201203201134
+"Lenkerbügel","Einlagerbares Produkt","M1012",13,"Einheiten","Einheiten","Fertigung",,,,201203201135
+"Vorbau","Einlagerbares Produkt","M1013",8.15,"Einheiten","Einheiten","Fertigung",,,,201203201136
+"Steuersatz","Einlagerbares Produkt","M1014",5.25,"Einheiten","Einheiten","Fertigung",,,,201203201137
+"Rad","Einlagerbares Produkt","M1015",74.75,"Einheiten","Einheiten","Fertigung",,,,201203201138
+"Reifen","Einlagerbares Produkt","M1016",4.15,"Einheiten","Einheiten","Fertigung",,,,201203201139
+"Schlauch","Einlagerbares Produkt","M1017",2.8,"Einheiten","Einheiten","Fertigung",,,,201203201140
+"Felge","Einlagerbares Produkt","M1018",3.6,"Einheiten","Einheiten","Fertigung",,,,201203201141
+"Speiche","Einlagerbares Produkt","M1019",5.7,"Einheiten","Einheiten","Fertigung",,,,201203201142
+"Nabe","Einlagerbares Produkt","M1020",15.6,"Einheiten","Einheiten","Fertigung",,,,201203201143
+"Gabel","Einlagerbares Produkt","M1021",18.2,"Einheiten","Einheiten","Fertigung",,,,201203201144
+"Kettensatz","Einlagerbares Produkt","M1022",4.85,"Einheiten","Einheiten","Fertigung",,,,201203201145
+"Pedal","Einlagerbares Produkt","M1023",6.15,"Einheiten","Einheiten","Fertigung",,,,201203201146
+"Rundrohr Typ 1","Einlagerbares Produkt","M1024",2.65,"Einheiten","Einheiten","Einkaufen",,,,201203201147
+"Rundrohr Typ 2","Einlagerbares Produkt","M1025",2.2,"Einheiten","Einheiten","Einkaufen",,,,201203201148
+"Fettentferner A","Einlagerbares Produkt","C1022",12.5,"ml","L","Einkaufen",,,,201203201149
+"City Bike","Einlagerbares Produkt",,,"Einheiten","Einheiten","Einkaufen",,,,201203201150

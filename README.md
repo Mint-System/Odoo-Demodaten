@@ -7,3 +7,7 @@ Allowed file types are:
 * .pdf for manufacturing and finance
 * .step for manufactung
 * .zip for odoo database templates
+
+## Banks
+
+Source: https://www.six-group.com/de/products-services/banking-services/interbank-clearing/online-services/download-bank-master.html
