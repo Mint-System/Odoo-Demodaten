@@ -10,4 +10,5 @@ Allowed file types are:
 
 ## Banks
 
-Source: https://www.six-group.com/de/products-services/banking-services/interbank-clearing/online-services/download-bank-master.html
+File: `res.bank.csv` is based on: [Six - Download Bankenstamm](https://www.six-group.com/de/products-services/banking-services/interbank-clearing/online-services/download-bank-master.html)
+
