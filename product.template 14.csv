@@ -1,4 +1,4 @@
-"Name","Product Type","Internal Reference","Cost","Mengeneinheit","Einkauf ME","Routen","Verkaufspreis","Auslieferungszeit","Durchlaufzeit der Fertigung","Strichcode"
+﻿"Name","Product Type","Internal Reference","Cost","Mengeneinheit","Einkauf ME","Routen","Verkaufspreis","Auslieferungszeit","Durchlaufzeit der Fertigung","Strichcode"
 "Rahmen beschichtet","Einlagerbares Produkt","M1000",85.25,"Einheiten","Einheiten","Fertigung",,,,201203201123
 "Rahmen unbeschichtet","Einlagerbares Produkt","M1001",68.76,"Einheiten","Einheiten","Fertigung",,2,14,201203201124
 "Oberrohr","Einlagerbares Produkt","M1002",14.35,"Einheiten","Einheiten","Fertigung",,2,3,201203201125
