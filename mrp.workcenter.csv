@@ -1,6 +1,7 @@
-﻿Code,Arbeitsplatz
-A1,Sägen
-A2,Schleifen
-A3,Schweissen
-B1,Oberflächenbehandlung
-Q1,Qualitätsprüfung
+"Code","Arbeitsplatz"
+"A1","Sägen"
+"A2","Schleifen"
+"A3","Schweissen"
+"B1","Oberflächenbehandlung"
+"Q1","Qualitätsprüfung"
+"M1","Radmontage"
