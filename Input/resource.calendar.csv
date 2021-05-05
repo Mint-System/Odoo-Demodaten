@@ -1,0 +1,39 @@
+Name,Arbeitszeit,Arbeitszeit/Arbeitszeit von,Arbeitszeit/Arbeitszeit bis
+Standard 40 hours/week,Montag Vormittag,8,12
+,Montag Nachmittag,13,17
+,Dienstag Vormittag,8,12
+,Mittwoch Vormittag,8,12
+,Donnerstag Vormittag,8,12
+,Freitag Vormittag,8,12
+,Freitag Nachmittag,13,17
+Standard 35 hours/week,Montag Vormittag,8,12
+,Montag Nachmittag,13,16
+,Dienstag Vormittag,8,12
+,Dienstag Nachmittag,13,16
+,Mittwoch Vormittag,8,12
+,Mittwoch Nachmittag,13,16
+,Donnerstag Vormittag,8,12
+,Donnerstag Nachmittag,13,16
+,Freitag Vormittag,8,12
+,Freitag Nachmittag,13,16
+Standard 38 hours/week,Montag Vormittag,8,12
+,Montag Nachmittag,13,16.6
+,Dienstag Vormittag,8,12
+,Dienstag Nachmittag,13,16.6
+,Mittwoch Vormittag,8,12
+,Mittwoch Nachmittag,13,16.6
+,Donnerstag Vormittag,8,12
+,Donnerstag Nachmittag,13,16.6
+,Freitag Vormittag,8,12
+,Freitag Nachmittag,13,16.6
+Standard 32 hours/week,Montag Vormittag,8,12
+,Montag Nachmittag,13,17
+,Dienstag Nachmittag,13,17
+,Mittwoch Nachmittag,13,17
+,Donnerstag Nachmittag,13,17
+Standard 24 hours/week,Dienstag Vormittag,8,12
+,Dienstag Nachmittag,13,17
+,Mittwochmorgen,8,12
+,Mittwoch Nachmittag,13,17
+,Donnerstagmorgen,8,12
+,Donnerstag Nachmittag,13,17

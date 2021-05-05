@@ -1,2 +1,0 @@
-id,name,street,city,zip,country_id,country_id/name,website,email,vat
-base.main_company,Velo Manufaktur AG,Fahrradstrasse 64,Altdorf,6064,Schweiz,Schweiz,https://www.example.com  ,info@example.com,CHE-103.800.167

@@ -1,0 +1,47 @@
+id,Lohnart,Basic Python Code
+gio_payroll_custom.gio_basic_ch,Monatslohn,result=0
+gio_payroll_custom.gio_anteil_13_monatslohn,Anteil 13. Monatslohn,result=0
+gio_payroll_custom.gio_bonus,Bonus,result=0
+gio_payroll_custom.gio_ferienentschaedigung,Ferienentschädigung,result=categories.BASIC
+gio_payroll_custom.gio_feiertagszuschlag,Feiertagszuschlag,result=categories.BASIC
+gio_payroll_custom.gio_grundschule_bis_sekundarschule,Kinderzulage,result=contract.employee_id.children
+gio_payroll_custom.gio_auzu_studium,Ausbildungszulage,result=contract.employee_id.gio_children_training
+gio_payroll_custom.gio_privatanteil_geschaeftsfahrzeug,Privatanteil Geschäftsfahrzeug,result=0
+gio_payroll_custom.gio_bahnticket,Reisespesen,result=0
+gio_payroll_custom.gio_gross_ch,Bruttolohn,result=0
+gio_payroll_custom.gio_ahv_iv_eo_c,AHV/IV/EO,result = categories.BASIC + categories.ALW + categories.PAG
+gio_payroll_custom.gio_ahv_iv_eo_an_ag,AHV/IV/EO AN und AG,result=0
+gio_payroll_custom.gio_alv_a,ALV,"if categories.BASIC + categories.ALW + categories.PAG > contract.gio_name.gio_wage_limit:
+    result =  contract.gio_name.gio_wage_limit
+else:
+    result = categories.BASIC + categories.ALW + categories.PAG"
+gio_payroll_custom.gio_alv_b,ALV AN und AG,result=0
+gio_payroll_custom.gio_alv_c,ALV 2,result =  categories.BASIC + categories.ALW + categories.PAG - contract.gio_name.gio_wage_limit
+gio_payroll_custom.gio_alv_d,ALV 2 AN und AG,result=0
+gio_payroll_custom.gio_bvg_employee,BVG AN,result=0
+gio_payroll_custom.gio_bvg_company,BVG AG,result=0
+gio_payroll_custom.gio_nbu,NBU,"if categories.BASIC + categories.ALW + categories.PAG > contract.gio_name.gio_wage_limit:
+    result =  contract.gio_name.gio_wage_limit
+else:
+    result = categories.BASIC + categories.ALW + categories.PAG"
+gio_payroll_custom.gio_bu,BU,result=0
+gio_payroll_custom.gio_uvg_zuschlag,UVG Zuschlag,"if categories.BASIC + categories.ALW + categories.PAG > contract.gio_name.gio_wage_limit:
+    result =  contract.gio_name.gio_wage_limit
+else:
+    result = categories.BASIC + categories.ALW + categories.PAG"
+gio_payroll_custom.gio_uvg_zuschlag_an_ag,UVG Zuschlag AN und AG,result=0
+gio_payroll_custom.gio_uvg_zuschlag2,UVG Zuschlag 2,result =  categories.BASIC + categories.ALW + categories.PAG - contract.gio_name.gio_wage_limit
+gio_payroll_custom.gio_uvg_zuschlag2_an_ag,UVG Zuschlag 2 AN und AG,result=0
+gio_payroll_custom.gio_ktg_w,KTG w,result = categories.BASIC + categories.ALW + categories.PAG
+gio_payroll_custom.gio_ktg_w_an_ag,KTG w AN und AG,result=0
+gio_payroll_custom.gio_ktg_m,KTG m,result = categories.BASIC + categories.ALW + categories.PAG
+gio_payroll_custom.gio_ktg_m_an_ag,KTG m AN und AG,result=0
+gio_payroll_custom.gio_abzug_privatanteil_geschaeftsfahrzeug,Abzug Privatanteil Geschäftsfahrzeug,result=0
+gio_payroll_custom.gio_quellensteuer,Quellensteuer,result = categories.BASIC + categories.ALW + categories.PAG
+gio_payroll_custom.gio_grenzgaengersteuer,Grenzgängersteuer,result = categories.BASIC + categories.ALW + categories.PAG
+gio_payroll_custom.gio_vorschuss,Vorschuss,result=0
+gio_payroll_custom.gio_repraesentationskosten,Repräsentationskosten,result=0
+gio_payroll_custom.gio_betreibungsamt,Betreibungsamt,result=0
+gio_payroll_custom.gio_net_ch,Nettolohn,result=0
+gio_payroll_custom.gio_familienausgleichskasse,Familienausgleichskasse,result=0
+gio_payroll_custom.gio_verwaltungskosten,Verwaltungskosten,result=0

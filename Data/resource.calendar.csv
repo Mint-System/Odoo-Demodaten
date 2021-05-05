@@ -1,0 +1,45 @@
+id,name,attendance_ids/name,attendance_ids/dayofweek,attendance_ids/day_period,attendance_ids/hour_from,attendance_ids/hour_to
+__export__.resource_calendar_21_8f6e269d,Standard 40,Montagmorgen,Montag,Vormittag,8,12
+,,Monday Afternoon,Montag,Nachmittag,13,17
+,,Dienstagmorgen,Dienstag,Vormittag,8,12
+,,Tuesday Afternoon,Dienstag,Nachmittag,13,17
+,,Mittwochmorgen,Mittwoch,Vormittag,8,12
+,,Wednesday Afternoon,Mittwoch,Nachmittag,13,17
+,,Donnerstagmorgen,Donnerstag,Vormittag,8,12
+,,Thursday Afternoon,Donnerstag,Nachmittag,13,17
+,,Freitagmorgen,Freitag,Vormittag,8,12
+,,Friday Afternoon,Freitag,Nachmittag,13,17
+__export__.resource_calendar_22_9f5a50bc,Standard 35,Montagmorgen,Montag,Vormittag,8,12
+,,Monday Afternoon,Montag,Nachmittag,13,16
+,,Dienstagmorgen,Dienstag,Vormittag,8,12
+,,Tuesday Afternoon,Dienstag,Nachmittag,13,16
+,,Mittwochmorgen,Mittwoch,Vormittag,8,12
+,,Wednesday Afternoon,Mittwoch,Nachmittag,13,16
+,,Donnerstagmorgen,Donnerstag,Vormittag,8,12
+,,Thursday Afternoon,Donnerstag,Nachmittag,13,16
+,,Freitagmorgen,Freitag,Vormittag,8,12
+,,Friday Afternoon,Freitag,Nachmittag,13,16
+__export__.resource_calendar_23_dfbdc7e9,Standard 38,Montagmorgen,Montag,Vormittag,8,12
+,,Monday Afternoon,Montag,Nachmittag,13,17
+,,Dienstagmorgen,Dienstag,Vormittag,8,12
+,,Tuesday Afternoon,Dienstag,Nachmittag,13,17
+,,Mittwochmorgen,Mittwoch,Vormittag,8,12
+,,Wednesday Afternoon,Mittwoch,Nachmittag,13,17
+,,Donnerstagmorgen,Donnerstag,Vormittag,8,12
+,,Thursday Afternoon,Donnerstag,Nachmittag,13,17
+,,Freitagmorgen,Freitag,Vormittag,8,12
+,,Friday Afternoon,Freitag,Nachmittag,13,15
+__export__.resource_calendar_24_fe29be90,Standard 32,Monday Afternoon,Montag,Nachmittag,13,17
+,,Dienstagmorgen,Dienstag,Vormittag,8,12
+,,Tuesday Afternoon,Dienstag,Nachmittag,13,17
+,,Mittwochmorgen,Mittwoch,Vormittag,8,12
+,,Wednesday Afternoon,Mittwoch,Nachmittag,13,17
+,,Donnerstagmorgen,Donnerstag,Vormittag,8,12
+,,Thursday Afternoon,Donnerstag,Nachmittag,13,17
+,,Freitagmorgen,Freitag,Vormittag,8,12
+__export__.resource_calendar_25_c9bed2f5,Standard 24,Dienstagmorgen,Dienstag,Vormittag,8,12
+,,Tuesday Afternoon,Dienstag,Nachmittag,13,17
+,,Mittwochmorgen,Mittwoch,Vormittag,8,12
+,,Wednesday Afternoon,Mittwoch,Nachmittag,13,17
+,,Donnerstagmorgen,Donnerstag,Vormittag,8,12
+,,Thursday Afternoon,Donnerstag,Nachmittag,13,17

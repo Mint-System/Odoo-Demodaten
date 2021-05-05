@@ -1,0 +1,30 @@
+Externe ID,Product,Quantity,BoM Type,BoM Lines/Component,BoM Lines/Quantity
+1,Rahmen unbeschichtet,1,Manufacture this product,Oberrohr,1
+,,,,Steuerrohr,1
+,,,,Unterrohr,1
+,,,,Sitzrohr,1
+,,,,Sitzstrebe,1
+,,,,Kettenstrebe,1
+,,,,Fettentferner A,10
+2,Oberrohr,1,Manufacture this product,Rundrohr Typ 1,1
+,,,,Fettentferner A,1
+3,Steuerrohr,1,Manufacture this product,Rundrohr Typ 1,1
+,,,,Fettentferner A,1
+4,Unterrohr,1,Manufacture this product,Rundrohr Typ 1,1
+,,,,Fettentferner A,1
+5,Sitzrohr,1,Manufacture this product,Rundrohr Typ 1,1
+,,,,Fettentferner A,1
+6,Sitzstrebe,1,Manufacture this product,Rundrohr Typ 2,1
+,,,,Fettentferner A,1
+7,Kettenstrebe,1,Manufacture this product,Rundrohr Typ 2,1
+,,,,Fettentferner A,1
+8,Rad,1,Manufacture this product,Reifen,1
+,,,,Schlauch,1
+,,,,Felge,1
+,,,,Speiche,16
+,,,,Nabe,1
+9,Sattel,1,Manufacture this product,Sattelstütze,1
+,,,,Sattelüberzug,1
+,,,,Sattelschelle,1
+10,Speiche,1,Manufacture this product,Draht Typ 1,28
+,,,,Speichennippel,8

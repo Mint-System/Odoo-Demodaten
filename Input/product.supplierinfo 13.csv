@@ -1,0 +1,14 @@
+Sequenz,Lieferant,Produktvorlage,Menge,Preis,Kurzbezeichnung beim Lieferant,Tage bis Auslieferung
+1,Eisenwaren Huber AG,[M1024] Rundrohr Typ 1,1,2.3,DK22,15
+2,Eisenwaren Huber AG,[M1024] Rundrohr Typ 1,10,2.1,DK22,15
+3,Eisenwaren Huber AG,[M1024] Rundrohr Typ 1,100,1.6,DK22,20
+4,Metall und Profile GmbH,[M1024] Rundrohr Typ 1,1,2.2,L-200,1
+5,Metall und Profile GmbH,[M1024] Rundrohr Typ 1,50,2,L-200,2
+6,Metall und Profile GmbH,[M1025] Rundrohr Typ 2,1,2,L-205,2
+7,Eisenwaren Huber AG,[M1025] Rundrohr Typ 2,1,1.8,DK26,15
+8,Eisenwaren Huber AG,[M1025] Rundrohr Typ 2,10,1.6,DK26,15
+9,Eisenwaren Huber AG,[M1025] Rundrohr Typ 2,100,1.4,DK26,20
+10,Eisenwaren Huber AG,[C1022] Fettentferner A,0.6,6,CL100,2
+11,Metall und Profile GmbH,[C1022] Fettentferner A,1,6.5,D-410,2
+12,Eisenwaren Huber AG,[C of C] Certificat of Conformity,1,8,,2
+13,Steiner Mechanik AG,[C of C] Certificat of Conformity,1,6,,2
