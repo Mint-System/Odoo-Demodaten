@@ -1,5 +1,0 @@
-id,name,work_email,department_id/id,job_id/id,user_id/id
-__export__.hr_employee_27_96ca89e1,Christian Huber,,__export__.hr_department_9_e02409eb,__export__.hr_job_1_b137174a,__export__.res_users_25_d2a05128
-__export__.hr_employee_30_80d748af,Franziska Schmid,,__export__.hr_department_8_879692f0,__export__.hr_job_4_62a9d36f,__export__.res_users_28_7ace2c3f
-__export__.hr_employee_28_b390b78b,Martina Schlegel,,__export__.hr_department_9_e02409eb,__export__.hr_job_2_f8596eb8,__export__.res_users_26_0ffd359b
-__export__.hr_employee_29_0dd2cfc6,Thomas Lauener,,hr.dep_administration,__export__.hr_job_3_237b5538,__export__.res_users_27_4cef2138
