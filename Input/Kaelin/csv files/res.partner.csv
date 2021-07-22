@@ -1,0 +1,11 @@
+"name","is_company","parent_id","street","city","zip","country_id"
+"Steiner Mechanik AG","true",,"Hübelstrasse 24","Dallenwil",6383,"Schweiz"
+"Oberflächentechnik GmbH","true",,"Steinerstrasse","Brunnen",6440,"Schweiz"
+"Eisenwaren Huber AG","true",,"Dorfbachstrasse 2","Erstfeld",6472,"Schweiz"
+"Anita Inglin",,,"Hauptplatz 16","Niederbipp",4704,"Schweiz"
+"Velomarkt Plus GmbH","true",,"Dorfplatz 23","Stans",6370,"Schweiz"
+"Metall und Profile GmbH","true",,"Kichgasse 2","Hünenberg",6331,"Schweiz"
+"Fast Bicycle Repair","true",,"5100 Belt Line","Dallas","TX 75218","USA - Vereinigte Staaten von Amerika"
+"Fahrrad-Traum AG","true",,"Liechtensteig 2","Würzburg",97070,"Deutschland"
+"Werner Kopp",,"Oberflächentechnik GmbH",,,,
+"Klingel Textile AG","true",,"In der Höhe 51","Wohlen",5610,"Schweiz"

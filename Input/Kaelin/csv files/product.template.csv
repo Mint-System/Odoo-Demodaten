@@ -1,0 +1,34 @@
+"name","sale_ok","purchase_ok","type","default_code","barcode","standard_price","uom_id","uom_po_id","route_ids","list_price","sale_delay","produce_delay"
+"Rahmen beschichtet","True","True","Einlagerbares Produkt","M1000",201203201123,85.25,"Einheiten","Einheiten","Fertigung",,,
+"Rahmen unbeschichtet","True","True","Einlagerbares Produkt","M1001",201203201124,68.76,"Einheiten","Einheiten","Fertigung",,2,14
+"Oberrohr","True","True","Einlagerbares Produkt","M1002",201203201125,14.35,"Einheiten","Einheiten","Fertigung",,2,3
+"Steuerrohr","True","True","Einlagerbares Produkt","M1003",201203201126,10.25,"Einheiten","Einheiten","Fertigung",,2,3
+"Unterrohr","True","True","Einlagerbares Produkt","M1004",201203201127,11.25,"Einheiten","Einheiten","Fertigung",,2,3
+"Sitzrohr","True","True","Einlagerbares Produkt","M1005",201203201128,8.85,"Einheiten","Einheiten","Fertigung",,2,3
+"Sitzstrebe","True","True","Einlagerbares Produkt","M1006",201203201129,10.15,"Einheiten","Einheiten","Fertigung",,2,4
+"Kettenstrebe","True","True","Einlagerbares Produkt","M1007",201203201130,11.85,"Einheiten","Einheiten","Fertigung",,2,4
+"Sitz","True","True","Einlagerbares Produkt","M1008",201203201131,18.85,"Einheiten","Einheiten","Fertigung",42,,
+"Sattelstütze","True","True","Einlagerbares Produkt","M1009",201203201132,5.25,"Einheiten","Einheiten","Fertigung",,,
+"Sattel","True","True","Einlagerbares Produkt","M1010",201203201133,8.8,"Einheiten","Einheiten","Fertigung",,2,6
+"Lenker","True","True","Einlagerbares Produkt","M1011",201203201134,48.15,"Einheiten","Einheiten","Fertigung",73,,
+"Lenkerbügel","True","True","Einlagerbares Produkt","M1012",201203201135,13,"Einheiten","Einheiten","Fertigung",,,
+"Vorbau","True","True","Einlagerbares Produkt","M1013",201203201136,8.15,"Einheiten","Einheiten","Fertigung",,,
+"Steuersatz","True","True","Einlagerbares Produkt","M1014",201203201137,5.25,"Einheiten","Einheiten","Fertigung",,,
+"Rad","True","True","Einlagerbares Produkt","M1015",201203201138,74.75,"Einheiten","Einheiten","Fertigung",,,
+"Reifen","True","True","Einlagerbares Produkt","M1016",201203201139,4.15,"Einheiten","Einheiten","Fertigung",,,
+"Schlauch","True","True","Einlagerbares Produkt","M1017",201203201140,2.8,"Einheiten","Einheiten","Fertigung",,,
+"Felge","True","True","Einlagerbares Produkt","M1018",201203201141,3.6,"Einheiten","Einheiten","Fertigung",,,
+"Speiche","True","True","Einlagerbares Produkt","M1019",201203201142,5.7,"Einheiten","Einheiten","Fertigung",,,
+"Nabe","True","True","Einlagerbares Produkt","M1020",201203201143,15.6,"Einheiten","Einheiten","Fertigung",,,
+"Gabel","True","True","Einlagerbares Produkt","M1021",201203201144,18.2,"Einheiten","Einheiten","Fertigung",,,
+"Kettensatz","True","True","Einlagerbares Produkt","M1022",201203201145,4.85,"Einheiten","Einheiten","Fertigung",,,
+"Pedal","True","True","Einlagerbares Produkt","M1023",201203201146,6.15,"Einheiten","Einheiten","Fertigung",,,
+"Rundrohr Typ 1","True","True","Einlagerbares Produkt","M1024",201203201147,2.65,"Einheiten","Einheiten","Einkaufen",,,
+"Rundrohr Typ 2","True","True","Einlagerbares Produkt","M1025",201203201148,2.2,"Einheiten","Einheiten","Einkaufen",,,
+"Fettentferner A","True","True","Einlagerbares Produkt","C1022",201203201149,12.5,"ml","L","Einkaufen",,,
+"City Bike","True","True","Einlagerbares Produkt","B3001",201203201150,4,"Einheiten","Einheiten","Einkaufen",,,
+"Sattelschelle","True","True","Einlagerbares Produkt","M1026",201203201151,6.76,"Einheiten","Einheiten","Einkaufen",,,
+"Sattelüberzug","True","True","Einlagerbares Produkt","M1027",201203201152,8.15,"Einheiten","Einheiten","Einkaufen",,,
+"Draht Typ 1","True","True","Einlagerbares Produkt","M1028",201203201153,1.1,"cm","m","Einkaufen",,,
+"Speichennippel","True","True","Einlagerbares Produkt","M1029",201203201154,0.2,"Einheiten","Einheiten","Einkaufen",,,
+"Klebstoff A","True","True","Einlagerbares Produkt","M1030",201203201155,21,"ml","ml","Einkaufen",,,

@@ -1,0 +1,3 @@
+"name","category_id","uom_type","factor"
+"ml","Volumen","Kleiner als die Referenzeinheit",1000
+"mm","Länge /Entfernung","Kleiner als die Referenzeinheit",1000
